@@ -18,4 +18,7 @@ The **X6** is an educational and hobbyist-oriented robot arm designed to provide
 - **Code:** Coming soon.
 - **STL Files and Build Guide:** Coming soon.
 
+## Credits
+The gripper design is based on work by Annin Robotics.
+
 *Stay tuned for more updates!*
